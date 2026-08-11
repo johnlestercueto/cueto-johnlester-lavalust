@@ -572,6 +572,7 @@ defined('PREVENT_DIRECT_ACCESS') OR exit('No direct script access allowed');
 
 <!-- HERO -->
 <div class="hero wrap">
+    <h1>Updated</h1>
     <div class="badge">v<?php echo config_item('VERSION') ?? '4.x'; ?> — Now Available</div>
     <h1>
         <span class="word-lava">Lava</span><span class="word-lust">Lust</span><br>Framework
